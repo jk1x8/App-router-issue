@@ -1,4 +1,4 @@
-To reproduce the error run:
+To reproduce the issue run:
 
 npm run build && npm start
 
